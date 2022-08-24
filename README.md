@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesyoungGHusername
 - 👀 I’m interested in hanging out with my dog while working from home.
-- 🌱 I’m currently learning a lot.
+- 🌱 I’m currently trying to figure out whether SwiftUI is just functional programming.
 - 💞️ I’m looking to collaborate on creative projects.
 - 📫 Send me a message on here if you like.
 

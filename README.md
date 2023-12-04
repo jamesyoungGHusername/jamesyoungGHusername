@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesyoungGHusername
 - 👀 I’m interested in hanging out with my dog while working from home.
-- 🌱 I’m currently working on a lot of different things, including an app rewrite, several websites, and a Swift vocoder.
+- 🌱 I’m currently working on integrating flashcards with Siri.
 - 💞️ I’m looking to collaborate on creative projects.
 - 📫 Send me a message on here if you like.
 
